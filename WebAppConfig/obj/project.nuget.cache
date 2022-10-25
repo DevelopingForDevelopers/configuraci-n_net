@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TgXWYuPBPoOSwPh3cq/O/q3D9MXIfheP6sGPEBC22ZyYtNHCbLN/xjPv18o1qiu0N3fLnIkwzC33tqorUpvQzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Blog\\net\\exercise2\\WebAppConfig\\WebAppConfig.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\jesus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
